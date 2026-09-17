@@ -1,12 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a86fde62-446b-404f-9f7a-e82673d597d8" name="Changes" comment="" />
+    <list default="true" id="a86fde62-446b-404f-9f7a-e82673d597d8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/otchet/Documentation.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/otchet/Otchet.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/colorlab/model/cmyk.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/colorlab/model/cmyk.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/colorlab/model/converter.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/colorlab/model/converter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/colorlab/model/gamma.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/colorlab/model/gamma.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/colorlab/model/gamut.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/colorlab/model/gamut.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/colorlab/model/illuminants.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/colorlab/model/illuminants.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/colorlab/model/rgb_xyz.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/colorlab/model/rgb_xyz.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/colorlab/model/xyz_lab.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/colorlab/model/xyz_lab.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/colorlab/view/color_panel.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/colorlab/view/color_panel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/colorlab/view/gradient_slider.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/colorlab/view/gradient_slider.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/colorlab/view/main_window.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/colorlab/view/main_window.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/colorlab/viewmodel/color_viewmodel.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/colorlab/viewmodel/color_viewmodel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_cmyk.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_cmyk.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_gamut.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_gamut.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_rgb_xyz.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_rgb_xyz.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_roundtrip.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_roundtrip.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_xyz_lab.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_xyz_lab.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Python Unit Test" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "AlexSlobodnyak"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/AlexSlobodnyak/Lab1.git",
+    "accountId": "4d69818b-841d-48e8-a36e-cac0f79ca544"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 8
 }]]></component>
@@ -18,9 +63,136 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "Python tests.Python tests in test_cmyk.py.executor": "Run",
+    "Python tests.Python tests in test_gamut.py.executor": "Run",
+    "Python tests.Python tests in test_rgb_xyz.py.executor": "Run",
+    "Python tests.Python tests in test_roundtrip.py.executor": "Run",
+    "Python tests.Python tests in test_xyz_lab.py.executor": "Run",
+    "Python.color_viewmodel.executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/ASUS/OneDrive/Desktop/Lab 1/otchet",
+    "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ASUS\OneDrive\Desktop\Lab 1\otchet" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="colorlab" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="colorlab" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docs" factoryName="Docutils task">
+      <module name="colorlab" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="" />
+      <option name="docutils_open_in_browser" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docs" factoryName="Sphinx task">
+      <module name="colorlab" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="" />
+      <option name="docutils_open_in_browser" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Autodetect">
+      <module name="colorlab" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="colorlab" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -37,5 +209,28 @@
       <updated>1789675768460</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
